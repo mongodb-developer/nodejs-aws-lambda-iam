@@ -1,0 +1,8 @@
+{
+    "name": "myfirstfunction",
+    "version": "1.0.0",
+    "dependencies": {
+        "aws4": "^1.12.0",
+        "mongodb": "latest"
+    }
+}
